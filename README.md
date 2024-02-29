@@ -1,6 +1,6 @@
 # Papers of RLHF
 
-Related papers for RLHF. I summarized the papers based on https://github.com/opendilab/awesome-RLHF and made my comment.
+This is a collection of papers in Reinforcement Learning with Human Feedback (RLHF). I summarized papers I valued and made my comments.
 
 **Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
 
@@ -14,3 +14,9 @@ Related papers for RLHF. I summarized the papers based on https://github.com/ope
 ## 2023
 
 * [123](https://arxiv.org/pdf/2110.03155.pdf) 
+
+
+
+## Reference
+
+https://github.com/opendilab/awesome-RLHF
