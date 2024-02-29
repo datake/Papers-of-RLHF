@@ -1,6 +1,6 @@
 # Papers of RLHF
 
-Related papers for RLHF, which I summarized based on .
+Related papers for RLHF. I summarized the papers based on https://github.com/opendilab/awesome-RLHF and made my comment.
 
 **Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
 
