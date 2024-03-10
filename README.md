@@ -1,6 +1,6 @@
 # Papers of RLHF
 
-This is a collection of papers in Reinforcement Learning with Human Feedback (RLHF) that I found to be important. I summarized the papers I collected and made my comments. I understand there are always some important papers I may miss, and I will constantly update to my best efforts.
+This is a collection of papers in Reinforcement Learning with Human Feedback (RLHF) that I found important. I summarized the papers I collected and made my comments. I understand there are always some important papers I have missed, and I will constantly update to my best efforts.
 
 **Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
 
@@ -13,7 +13,8 @@ This is a collection of papers in Reinforcement Learning with Human Feedback (RL
 
 ## 2023
 
-* [123](https://arxiv.org/pdf/2110.03155.pdf) 
+* [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) 
+>
 
 
 ## 2022 and Before
