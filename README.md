@@ -13,14 +13,17 @@ This is a collection of papers in Reinforcement Learning with Human Feedback (RL
 
 ## 2023
 
-* [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) 
->
+* [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) **(NeurIPS 2023)**
+> To address the hard optimization issues in PPO-based RLHF in LLM, DPO simplifies the RL objective function by reparameterization/change variable (cancel the explicit reward function), leading to a simple binary cross-entropy supervised learning loss. They also provide some theoretical interpretation of DPO, and experiments demonstrate that DPO outperforms PPO-based RLHF.
 
 
 ## 2022 and Before
 
+* [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf) **(arxiv 2020)**
+> This paper proposes the PPO-based RLHF in the context of LLM.
+
 * [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741.pdf) **(NIPS 2017)**
-> The first successful RLHF paper from DeepMind and OpenAI, where human feedbacks are collected to train a reward model (Bradley-Terry) via a binary cross entropy loss. Experiments are conducted on both Mujoco and Atari games with A2C and TRPO associated with a bunch of human feedbacks, without observing the true reward model. The implementation is based on TensorFlow.
+> The first successful RLHF paper from DeepMind and OpenAI **within the RL field**, where human feedbacks are collected to train a reward model (Bradley-Terry) via a binary cross entropy loss. Experiments are conducted on both Mujoco and Atari games with A2C and TRPO associated with a bunch of human feedbacks, without observing the true reward model. The implementation is based on TensorFlow.
 
 
 ## Reference
